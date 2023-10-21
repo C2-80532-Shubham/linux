@@ -1,0 +1,4 @@
+ This is a sample file to test the cat command
+This is the second line
+
+This line is to append to the sample text

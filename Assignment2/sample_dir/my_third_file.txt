@@ -1,0 +1,6 @@
+assign2
+check
+bye
+hello
+six 
+seven
